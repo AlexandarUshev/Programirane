@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: ConsoleApplication18, Configuration: Debug Any CPU ------
+1>  ConsoleApplication18 -> c:\users\307-pc11\documents\visual studio 2012\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
